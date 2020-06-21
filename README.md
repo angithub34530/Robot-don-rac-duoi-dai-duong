@@ -41,6 +41,7 @@ Source: [OceanUnite](https://www.oceanunite.org/issues/marine-plastic-pollution-
 - Tùy theo môi trường và địa hình để tinh chỉnh khả năng thu gom của robot (nơi có đá ngầm thì robot sẽ né được và nguyên vật liệu phải gia cố tốt hơn so với địa hình ít đá)
 
 ## Kế hoạch dự án
+### Thời gian
 - 16/06/2020 – 21/06/2020 : Họp nhóm, thảo luận quy trình thực hiện.
 - 22/06 – 28/06: Chia nhóm thành 3 sub group, mỗi sub group gồm 2 thành viên thực hiện các công việc:
 	- SG1: Thu thập số liệu thực tế về ô nhiễm môi trường biển, nêu ra nguyên nhân, tính cấp thiết của đề tài để có thể thuyết phục mọi người, kêu gọi đầu tư.
