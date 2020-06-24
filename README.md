@@ -53,3 +53,23 @@ Source: [OceanUnite](https://www.oceanunite.org/issues/marine-plastic-pollution-
 - 16/07 – 16/08: Mô hình hóa Robot, “nạp” mô hình phân loại đã xây dựng từ trước vào Robot, đưa vào thử nghiệm thực tế.
 - 20/08/2020: Hoàn thiện robot và sản xuất , đưa sản phẩm ra thị trường Việt Nam.
 - 20/08/2021: Mở rộng mô hình sang các nước ĐNÁ và châu Á. Từ đó phát triển mô hình ra toàn cầu.
+
+### Kế hoạch tài chính
+- Đăng kí sở hữu trí tuệ dự án: 1.240.000 VNĐ
+- Do dữ liệu huấn luyện của ta rất lớn (hàng triệu sinh vật biển) nên để có được mô hình một cách nhanh chóng, ta phải thuê sever từ Google (Google Colab) để có phần cứng đủ mạnh cho việc huấn luyện: $9.99 / tháng ~ 230.000 VNĐ/ tháng.
+ 
+- Mô hình hóa 01 Robot: 3.000.0000 VNĐ
+	- Mạch tích hợp vi xử lí Raspberry pi: 1.500.000 VNĐ.
+	- Lưới lọc: 100.000 VNĐ.
+	- Ngăn chứa rác: 200.000 VNĐ.
+	- Camera nhận diện: 700.000 VNĐ.
+	- Chi phí lắp ráp: 500.000 VNĐ. 
+- Chi phí đi lại, sinh hoạt: 1.000.000 VNĐ
+- Quỹ đề phòng phát sinh: 1.530.000 VNĐ
+Tổng cộng : 7.000.000 VNĐ
+### Chi phí Marketing:
+- Quảng cáo trên Facebook: Hiện nay số lượng người truy cập Facebook rất lớn nên ta sẽ chạy quảng cáo trên FB để có thể tiếp cận nhanh chóng đến mọi người để kêu gọi vốn đầu tư: ~200.000 VNĐ / ngày, chạy quảng cáo 10 ngày -> 2.000.000 VNĐ  
+Nguồn: Facebook for Business
+- In tờ rơi: in màu 1.500đ/tờ  200 tờ = 300.000 VNĐ.
+- Nghiên cứu & khảo sát khách hàng trên Survey Monkey : 19$/ tháng ~ 440.000 VNĐ
+
