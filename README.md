@@ -70,6 +70,6 @@ Tổng cộng : 7.000.000 VNĐ
 ### Chi phí Marketing:
 - Quảng cáo trên Facebook: Hiện nay số lượng người truy cập Facebook rất lớn nên ta sẽ chạy quảng cáo trên FB để có thể tiếp cận nhanh chóng đến mọi người để kêu gọi vốn đầu tư: ~200.000 VNĐ / ngày, chạy quảng cáo 10 ngày -> 2.000.000 VNĐ  
 Nguồn: Facebook for Business
-- In tờ rơi: in màu 1.500đ/tờ  200 tờ = 300.000 VNĐ.
+- In tờ rơi: in màu 1.500đ/tờ -> 200 tờ = 300.000 VNĐ.
 - Nghiên cứu & khảo sát khách hàng trên Survey Monkey : 19$/ tháng ~ 440.000 VNĐ
 
