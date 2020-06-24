@@ -72,4 +72,8 @@ Tổng cộng : 7.000.000 VNĐ
 Nguồn: Facebook for Business
 - In tờ rơi: in màu 1.500đ/tờ -> 200 tờ = 300.000 VNĐ.
 - Nghiên cứu & khảo sát khách hàng trên Survey Monkey : 19$/ tháng ~ 440.000 VNĐ
+- Thuê domain tạo web quảng cáo : 45.000/ tháng.
+- Tổng: 2.785.000 VNĐ
+
+-> Tổng chi phí dự án: 7.000.000 + 2.785.000 = 9.785.000 VNĐ
 
