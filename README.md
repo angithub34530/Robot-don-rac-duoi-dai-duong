@@ -57,7 +57,9 @@ Source: [OceanUnite](https://www.oceanunite.org/issues/marine-plastic-pollution-
 ### Kế hoạch tài chính
 - Đăng kí sở hữu trí tuệ dự án: 1.240.000 VNĐ
 - Do dữ liệu huấn luyện của ta rất lớn (hàng triệu sinh vật biển) nên để có được mô hình một cách nhanh chóng, ta phải thuê sever từ Google (Google Colab) để có phần cứng đủ mạnh cho việc huấn luyện: $9.99 / tháng ~ 230.000 VNĐ/ tháng.
- 
+
+[Imgur](https://imgur.com/cVqteM0)
+
 - Mô hình hóa 01 Robot: 3.000.0000 VNĐ
 	- Mạch tích hợp vi xử lí Raspberry pi: 1.500.000 VNĐ.
 	- Lưới lọc: 100.000 VNĐ.
