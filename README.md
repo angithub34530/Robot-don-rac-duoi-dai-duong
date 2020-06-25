@@ -58,7 +58,7 @@ Source: [OceanUnite](https://www.oceanunite.org/issues/marine-plastic-pollution-
 - Đăng kí sở hữu trí tuệ dự án: 1.240.000 VNĐ
 - Do dữ liệu huấn luyện của ta rất lớn (hàng triệu sinh vật biển) nên để có được mô hình một cách nhanh chóng, ta phải thuê sever từ Google (Google Colab) để có phần cứng đủ mạnh cho việc huấn luyện: $9.99 / tháng ~ 230.000 VNĐ/ tháng.
 
-[Colab Pro](https://i.imgur.com/cVqteM0.png)
+![Colab Pro](https://i.imgur.com/cVqteM0.png)
 
 - Mô hình hóa 01 Robot: 3.000.0000 VNĐ
 	- Mạch tích hợp vi xử lí Raspberry pi: 1.500.000 VNĐ.
@@ -73,16 +73,16 @@ Tổng cộng : 7.000.000 VNĐ
 ### Chi phí Marketing:
 - Quảng cáo trên Facebook: Hiện nay số lượng người truy cập Facebook rất lớn nên ta sẽ chạy quảng cáo trên FB để có thể tiếp cận nhanh chóng đến mọi người để kêu gọi vốn đầu tư: ~200.000 VNĐ / ngày, chạy quảng cáo 10 ngày -> 2.000.000 VNĐ 
 
-[Facebook for Business](https://i.imgur.com/4LuJa9e.png)
+![Facebook for Business](https://i.imgur.com/4LuJa9e.png)
 
 - In tờ rơi: in màu 1.500đ/tờ -> 200 tờ = 300.000 VNĐ.
 - Nghiên cứu & khảo sát khách hàng trên Survey Monkey : 19$/ tháng ~ 440.000 VNĐ
 
-[Survey Monkey](https://i.imgur.com/c4dBWLW.png)
+![Survey Monkey](https://i.imgur.com/c4dBWLW.png)
 
 - Thuê domain tạo web quảng cáo : 45.000/ tháng.
 
-[Viettel IDC](https://i.imgur.com/c04RzkU.png)
+![Viettel IDC](https://i.imgur.com/c04RzkU.png)
 
 - Tổng: 2.785.000 VNĐ
 
